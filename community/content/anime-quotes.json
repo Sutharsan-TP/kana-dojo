@@ -418,10 +418,17 @@
     "character": "Eren Yeager"
   },
   {
-  "japanese": "オレ様の美技にブギウギ",
-  "romaji": "Ore-sama no bigi ni bugiugi",
-  "english": "Dance to my beautiful technique!",
-  "anime": "The Prince of Tennis",
-  "character": "Keigo Atobe"
-}
+    "japanese": "オレ様の美技にブギウギ",
+    "romaji": "Ore-sama no bigi ni bugiugi",
+    "english": "Dance to my beautiful technique!",
+    "anime": "The Prince of Tennis",
+    "character": "Keigo Atobe"
+  },
+  {
+    "japanese": "イエス！イエス！イエス！イエス！",
+    "romaji": "Iesu! Iesu! Iesu! Iesu!",
+    "english": "Yes! Yes! Yes! Yes! (alt wording 2)",
+    "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
+    "character": "DIO"
+  }
 ]
