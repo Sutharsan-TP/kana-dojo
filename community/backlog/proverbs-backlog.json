@@ -113,7 +113,7 @@
     "romaji": "Ame futte ji katamaru",
     "english": "After rain, the ground hardens",
     "meaning": "Adversity builds strength",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -447,7 +447,7 @@
     "english": "Giving birth is easier than worrying",
     "meaning": "Doing is often easier than worrying",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 51,
@@ -620,7 +620,7 @@
     "english": "Good medicine tastes bitter",
     "meaning": "Helpful advice can be hard to hear",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 70,
@@ -763,7 +763,7 @@
     "romaji": "Neko no hitai",
     "english": "A cat's forehead",
     "meaning": "Very small space",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -899,7 +899,7 @@
     "english": "Dumplings over flowers",
     "meaning": "Practicality over appearance",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 101,
@@ -1470,7 +1470,7 @@
     "english": "Bamboo shoots after rain",
     "meaning": "Things spring up rapidly",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 164,
@@ -1605,7 +1605,7 @@
     "english": "See the trees but not the forest",
     "meaning": "Miss the bigger picture",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 179,
